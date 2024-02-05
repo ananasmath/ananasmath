@@ -1,0 +1,8 @@
+.columns{
+    display: flex;
+    column-gap: 20px;
+}
+
+.column__item{
+    width: 20%;
+}
