@@ -135,6 +135,11 @@ header{
             visibility: hidden;
             display: none;
         }
+
+        #hide{
+            font-size: 0.1em;
+        }
+
         
         #razdeli{
             float: left;
@@ -178,6 +183,11 @@ header{
             visibility: hidden;
             display: none;
         }
+
+            #hide{
+            font-size: 0.1em;
+        }
+
         
         #razdeli{
             float: left;
@@ -263,8 +273,14 @@ header{
                 text-shadow: #454545 0 0 2px;
                 border-bottom: 4px solid rgb(204, 202, 81);
                 height: 30%;
-    
+
+                
             }
+
+                    #hide{
+            font-size: 0.1em;
+        }
+
             .logofoot{
                 visibility: hidden;
                 display: none;
