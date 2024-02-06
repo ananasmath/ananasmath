@@ -238,6 +238,13 @@ header{
     
 }
 
+@media (max-width: 1000px){
+    .photo{
+        width: 200px;
+        height: 200px;
+}
+
+
 @media (max-width: 756px){
     #hide{
         visibility: hidden;
