@@ -136,10 +136,6 @@ header{
             display: none;
         }
 
-        #hide{
-            font-size: 0.1em;
-        }
-
         
         #razdeli{
             float: left;
@@ -182,10 +178,6 @@ header{
         .ooo{
             visibility: hidden;
             display: none;
-        }
-
-            #hide{
-            font-size: 0.1em;
         }
 
         
@@ -276,10 +268,6 @@ header{
 
                 
             }
-
-                    #hide{
-            font-size: 0.1em;
-        }
 
             .logofoot{
                 visibility: hidden;
