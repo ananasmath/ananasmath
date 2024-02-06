@@ -218,7 +218,10 @@ header{
             float: right;
         }
 
-
+       .jiji{
+            visibility: hidden;
+        }
+        
         }
 
 @media (min-width: 757px){
@@ -234,6 +237,11 @@ header{
     #hide{
         visibility: hidden;
     }
+
+   .jiji{
+            visibility: hidden;
+        }
+    
 }
 
         @media (max-width: 756px) and (min-width: 500px) {
