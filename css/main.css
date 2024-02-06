@@ -224,13 +224,18 @@ header{
         
         }
 
-@media (min-width: 757px){
+@media (min-width: 1078px){
     #hide{
         visibility: visible;
     }
     #showmenu{
         visibility: visible ;
 }
+
+    .buttonmenu{
+         visibility: hidden;
+    }
+    
 }
 
 @media (max-width: 756px){
